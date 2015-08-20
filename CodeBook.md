@@ -8,7 +8,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-which were programatically downloaded and unzipped to the working directory using R as UCI HAR Dataset
+which were programatically downloaded and unzipped to the working directory using R as 'UCI HAR Dataset'
 
 HOW THE SCRIPT WORKS
 =================================================================================================================================================================
